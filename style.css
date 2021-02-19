@@ -159,7 +159,7 @@ html{
 #home{
   height: 100vh;
   min-height: 500px;
-  background: url(https://cdn.discordapp.com/attachments/767764802525069353/812224950563373106/bg.jpg) no-repeat center;
+  background: url(https://i.hizliresim.com/sX1oxe.jpg) no-repeat center;
   background-size: cover;
   background-attachment: fixed;
 }
@@ -583,7 +583,7 @@ section.dark .section-title::after{
 }
 
 footer{
-  background: url(https://cdn.discordapp.com/attachments/767764802525069353/812224950563373106/bg.jpg) no-repeat center;
+  background: url(https://i.hizliresim.com/sX1oxe.jpg) no-repeat center;
   color: #fff;
   padding: 80px 0;
   text-align: center;
